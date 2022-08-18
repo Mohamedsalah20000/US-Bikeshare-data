@@ -28,6 +28,8 @@ The Chicago and New York City files also have the following two columns:
 Gender
 Birth Year
 
+![nyc-data](https://user-images.githubusercontent.com/90587270/185431651-a6dc8b54-47a1-4ab9-bd92-df0b9d606a4d.png)
+
 Data for the first 10 rides in the new_york_city.csv file
 
 The original files are much larger and messier, and you don't need to download them, but they can be accessed here if you'd like to see them (Chicago, New York City, Washington). These files had more columns and they differed in format in many cases. Some data wrangling has been performed to condense these files to the above core six columns to make your analysis and the evaluation of your Python skills more straightforward. In the Data Wrangling course that comes later in the Data Analyst Nanodegree program, students learn how to wrangle the dirtiest, messiest datasets, so don't worry, you won't miss out on learning this important skill!
@@ -98,4 +100,4 @@ new_york_city.csv
 washington.csv
 All four of these files are zipped up in the Bikeshare file in the resource tab in the sidebar on the left side of this page. You may download and open up that zip file to do your project work on your local machine.
 
-Some versions of this project also include a Project Workspace page in the classroom where the bikeshare.py file and the city dataset files are all included, and you can do all your work with them there.![Uploading nyc-data.png…]()
+Some versions of this project also include a Project Workspace page in the classroom where the bikeshare.py file and the city dataset files are all included, and you can do all your work with them there.
